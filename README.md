@@ -1,4 +1,4 @@
-# Teeth-Segmentation
+# [Teeth-Segmentation](https://arxiv.org/pdf/2210.03739)
 Segment out teeth from mandibular canal scans. 
 
 ## Pre-processing
